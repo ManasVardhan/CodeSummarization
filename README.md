@@ -6,11 +6,11 @@
   <h1 align="center">📝 Summarize.IT</h1>
   
   <p align="center">
-    <strong>This is a Streamlit web application for summarizing code using the Hugging Face Transformers library with the `Salesforce/codet5p-220m-bimodal` model.</strong>
+    
   </p>
   
 </div>
-
+This is a Streamlit web application for summarizing code using the Hugging Face Transformers library with the `Salesforce/codet5p-220m-bimodal` model.
 
 ## Demo
 
