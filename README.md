@@ -6,7 +6,7 @@ This is a Streamlit web application for summarizing code using the Hugging Face 
 
 ![Screenshot](Screenshot.png)
 
-_Description: This screenshot shows the Code Summarization Web App in action, summarizing a code snippet._
+_Description: This screenshot shows the app in action, summarizing a code snippet._
 
 ## Features
 
